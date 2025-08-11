@@ -60,9 +60,24 @@ This project is deployed using Render.
 ---
 
 ## 📷 Screenshots
+Home Page
 ![Home Page](https://github.com/Mahimanagpal/Video-Conferencing-App/blob/main/src/assets/images/homepage.png)
 
+Join Meeting
 ![Join Meeting](https://github.com/Mahimanagpal/Video-Conferencing-App/blob/main/src/assets/images/joinmeeting.png)
 
+Video Conference Room
 ![Video Conference Room](https://github.com/Mahimanagpal/Video-Conferencing-App/blob/main/src/assets/images/room.png)
 
+---
+
+## 🙌 Acknowledgements
+- [ZEGOCLOUD UIKit Prebuilt](https://www.zegocloud.com/)
+- [React](https://react.dev/)
+- [Vite](https://vite.dev/)
+- [Render](https://render.com/)
+
+---
+
+## Live Demo
+[Live Demo](https://video-conferencing-app-hob1.onrender.com)
