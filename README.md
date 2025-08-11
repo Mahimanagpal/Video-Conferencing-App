@@ -57,3 +57,12 @@ This project is deployed using Render.
      - VITE_APP_ID — Your ZEGOCLOUD App ID
      - VITE_SERVER_SECRET — Your ZEGOCLOUD Server Secret
 
+---
+
+## 📷 Screenshots
+![Home Page](https://github.com/Mahimanagpal/Video-Conferencing-App/blob/main/src/assets/images/homepage.png)
+
+![Join Meeting](https://github.com/Mahimanagpal/Video-Conferencing-App/blob/main/src/assets/images/joinmeeting.png)
+
+![Video Conference Room](https://github.com/Mahimanagpal/Video-Conferencing-App/blob/main/src/assets/images/room.png)
+
