@@ -1,0 +1,22 @@
+.join-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.join-container input{
+  width: 300px;
+  padding: 10px ;
+}
+.join-container h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.join-container button{
+  width: 200px;
+  padding: 10px;
+  background-color: teal;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
